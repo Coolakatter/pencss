@@ -239,8 +239,8 @@ input[type="submit"].button-large,
 input[type="reset"].button-large,
 input[type="button"].button-large {
   color: #FFF;
-  background-color: #4682B4;
-  border-color: #33C3F0; }
+  background-color: #B0C4DE;
+  border-color: #4682B4; }
 .button.button-large:hover,
 button.button-large:hover,
 input[type="submit"].button-large:hover,
@@ -252,8 +252,16 @@ input[type="submit"].button-large:focus,
 input[type="reset"].button-large:focus,
 input[type="button"].button-large:focus {
   color: #FFF;
-  background-color: #B0C4DE;
-  border-color: #1EAEDB; }
+  background-color: #4682B4;;
+  border-color: #4682B4; }
+button.button-large:active,
+input[type="submit"].button-large:active,
+input[type="reset"].button-large:active,
+input[type="button"].button-large:active {
+  color: #FFF;
+  background-color: #4682B4;
+  border-color: #B0C4DE; }
+
 
 
 
