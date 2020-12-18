@@ -354,7 +354,7 @@ table {
   border-collapse: collapse;
   table-layout: fixed;
   width: 100%;
-  word-break: break-all;
+  word-break: break-word;
 }
 th:not(.CalendarDay),
 td:not(.CalendarDay) {
