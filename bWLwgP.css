@@ -352,6 +352,9 @@ li {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 table {
   border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+  word-break: break-all;
 }
 th:not(.CalendarDay),
 td:not(.CalendarDay) {
