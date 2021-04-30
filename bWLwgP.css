@@ -454,7 +454,7 @@ there.
 
 /* Cards
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.cards_single {
+/* .cards_single {
   background: lightslategray;
   display: flex;
   flex-direction: column;
@@ -466,7 +466,18 @@ there.
   -webkit-transition: transform 0.6s;
   transition: 0.6s;
   transform-style: preserve-3d;
-}
+} */
+
+
+.cards_single {
+ {backgroundColor: rgba(0,0,0,0.2);
+  padding: 5px;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  border: 1px solid gainsboro;
+  box-shadow: 0px 8px 24px 0px rgba(0,0,0,.2);
+
+                 }
 
 .cards_single.flip {
   transform: rotateY(180deg);
