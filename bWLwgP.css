@@ -470,10 +470,11 @@ there.
 
 
 .cards_single {
-  background: white;
+  background: lightslategray;
   display: flex;
   flex-direction: column;
   margin-top: 20px;
+  border-radius: 16px;
   box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
   cursor: pointer;
   text-align: center;
@@ -481,7 +482,7 @@ there.
   transition: 0.6s;
   transform-style: preserve-3d;
 }
-                 }
+                 
 
 .cards_single.flip {
   transform: rotateY(180deg);
