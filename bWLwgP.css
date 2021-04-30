@@ -473,7 +473,7 @@ there.
   background: white;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 8px 24px 0px rgba(0,0,0,.2);
   cursor: pointer;
   text-align: center;
   -webkit-transition: transform 0.6s;
