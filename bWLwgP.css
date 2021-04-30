@@ -470,7 +470,7 @@ there.
 
 
 .cards_single {
- {backgroundColor: #FFFFFF;
+ {backgroundColor: rgba(23,234,234,.3;
   padding: 5px;
   margin-bottom: 0.5em;
   margin-top: 0.5em;
