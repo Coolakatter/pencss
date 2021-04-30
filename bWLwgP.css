@@ -479,6 +479,7 @@ there.
   -webkit-transition: transform 0.6s;
   transition: 0.6s;
   transform-style: preserve-3d;
+  border: 1px solid gainsboro;
 }
                  
 
