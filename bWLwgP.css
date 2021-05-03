@@ -471,7 +471,7 @@ there.
 
 .cards_single {
   background: white;
-  display: flex;
+/*   display: flex; */
   flex-direction: column;
   box-shadow: 0px 8px 24px 0px rgba(0,0,0,.2);
   cursor: pointer;
@@ -491,7 +491,7 @@ there.
 .cards_front, .cards_back {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  display: flex;
+/*   display: flex; */
   flex-direction: column;
 }
 .cards_front {
@@ -505,8 +505,8 @@ there.
   -webkit-transform: rotateY(180deg);
   position: absolute;
 /*   text-align: center; */
-  right: 0;
-  left: 0;
+/*   right: 0; */
+/*   left: 0; */
   background: white;
 /*   color: #20263f; */
 }
