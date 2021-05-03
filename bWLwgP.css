@@ -504,8 +504,9 @@ there.
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
   position: absolute;
-  text-align: center;
+/*   text-align: center; */
   right: 0;
   left: 0;
+  background: white;
   color: #20263f;
 }
