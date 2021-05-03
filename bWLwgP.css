@@ -486,6 +486,7 @@ there.
 .cards_single.flip {
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
+  color: white;
 }
 
 .cards_front, .cards_back {
