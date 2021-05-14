@@ -511,3 +511,9 @@ there.
   background: white;
 /*   color: #20263f; */
 }
+
+/* Fix to display dropdown menu in dash_table
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.Select-menu-outer {
+display : block !important;
+}
